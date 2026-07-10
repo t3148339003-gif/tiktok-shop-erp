@@ -539,7 +539,7 @@ function CreatorsPage() {
             <span className="text-sm font-semibold">{inf.name}</span>
             <span className="text-xs px-2 py-0.5 rounded-full bg-green-50 text-green-600">{sLabel(inf.status)}</span>
           </div>
-          <p className="text-xs text-gray-400">{inf.tiktokId} · {inf.followers?.(inf.followers/1000).toFixed(0)+'K'||0}粉丝 · {inf.category}</p>
+          <p className="text-xs text-gray-400">{inf.tiktokId} · {inf.followers ? (inf.followers/1000).toFixed(0)+'K' : '0'}粉丝 · {inf.category}</p>
           {inf.campaigns?.length > 0 && (
             <div className="mt-2 pt-2 border-t border-gray-50 text-xs text-gray-500">
               {inf.campaigns.map((c,i) => <span key={i} className="mr-3">GMV ${c.gmv.toFixed(0)} · {c.ordersCount}单</span>)}
