@@ -1,0 +1,93 @@
+{
+  "common": {
+    "appName": "TK Shop ERP",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "search": "Search",
+    "export": "Export",
+    "import": "Import",
+    "refresh": "Refresh",
+    "loading": "Loading...",
+    "noData": "No data",
+    "confirm": "Confirm",
+    "back": "Back"
+  },
+  "nav": {
+    "dashboard": "Home",
+    "products": "Products",
+    "orders": "Orders",
+    "finance": "Finance",
+    "livestream": "Live",
+    "influencers": "Creators",
+    "selection": "Discover",
+    "supply": "Supply Chain",
+    "crm": "CRM",
+    "competitors": "Competitors",
+    "marketing": "Marketing",
+    "settings": "Settings"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "wechatLogin": "WeChat Login",
+    "biometricLogin": "Quick Login",
+    "enableBiometric": "Enable Face ID / Fingerprint"
+  },
+  "dashboard": {
+    "todayOverview": "Today's Overview",
+    "gmv": "GMV",
+    "orders": "Orders",
+    "profit": "Profit",
+    "lowStock": "Low Stock",
+    "salesTrend": "Sales Trend",
+    "topProducts": "Top Products",
+    "liveNow": "Live Now"
+  },
+  "product": {
+    "title": "Products",
+    "create": "New Product",
+    "batchDelist": "Batch Delist",
+    "batchPublish": "Batch Publish",
+    "collect": "Collect",
+    "aiOptimize": "AI Optimize",
+    "status": {
+      "draft": "Draft",
+      "online": "Online",
+      "offline": "Offline",
+      "deleted": "Deleted"
+    }
+  },
+  "order": {
+    "title": "Orders",
+    "sync": "Sync Orders",
+    "batchShip": "Batch Ship",
+    "returns": "Returns",
+    "printLabel": "Print Label",
+    "status": {
+      "unpaid": "Unpaid",
+      "paid": "Paid",
+      "shipped": "Shipped",
+      "delivered": "Delivered",
+      "cancelled": "Cancelled"
+    }
+  },
+  "finance": {
+    "title": "Finance",
+    "profitReport": "Profit Report",
+    "reconciliation": "Reconciliation",
+    "transactions": "Transactions",
+    "weeklyReport": "Weekly Report"
+  },
+  "livestream": {
+    "title": "Livestream",
+    "schedule": "Schedule",
+    "liveMonitor": "Live Monitor",
+    "review": "Review",
+    "scripts": "Scripts"
+  }
+}

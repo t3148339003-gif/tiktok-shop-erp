@@ -1,0 +1,112 @@
+{
+  "common": {
+    "appName": "TK Shop ERP",
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除",
+    "edit": "编辑",
+    "create": "新建",
+    "search": "搜索",
+    "export": "导出",
+    "import": "导入",
+    "refresh": "刷新",
+    "loading": "加载中...",
+    "noData": "暂无数据",
+    "confirm": "确认",
+    "back": "返回"
+  },
+  "nav": {
+    "dashboard": "首页",
+    "products": "商品",
+    "orders": "订单",
+    "finance": "财务",
+    "livestream": "直播",
+    "influencers": "达人",
+    "selection": "选品",
+    "supply": "供应链",
+    "crm": "客户",
+    "competitors": "竞品",
+    "marketing": "营销",
+    "settings": "设置"
+  },
+  "auth": {
+    "login": "登录",
+    "logout": "退出登录",
+    "email": "邮箱",
+    "password": "密码",
+    "wechatLogin": "微信扫码登录",
+    "biometricLogin": "快速登录",
+    "enableBiometric": "开启 Face ID / 指纹登录"
+  },
+  "dashboard": {
+    "todayOverview": "今日概览",
+    "gmv": "GMV",
+    "orders": "订单",
+    "profit": "利润",
+    "lowStock": "库存预警",
+    "salesTrend": "销售趋势",
+    "topProducts": "热销商品",
+    "liveNow": "直播中"
+  },
+  "product": {
+    "title": "商品管理",
+    "create": "新增商品",
+    "batchDelist": "批量下架",
+    "batchPublish": "批量上架",
+    "collect": "采集商品",
+    "aiOptimize": "AI 优化",
+    "status": {
+      "draft": "草稿",
+      "online": "在线",
+      "offline": "已下架",
+      "deleted": "已删除"
+    }
+  },
+  "order": {
+    "title": "订单管理",
+    "sync": "同步订单",
+    "batchShip": "批量发货",
+    "returns": "售后管理",
+    "printLabel": "打印面单",
+    "status": {
+      "unpaid": "待付款",
+      "paid": "已付款",
+      "shipped": "已发货",
+      "delivered": "已签收",
+      "cancelled": "已取消"
+    }
+  },
+  "finance": {
+    "title": "财务管理",
+    "profitReport": "利润报表",
+    "reconciliation": "对账",
+    "transactions": "收支明细",
+    "weeklyReport": "周报"
+  },
+  "livestream": {
+    "title": "直播管理",
+    "schedule": "直播排期",
+    "liveMonitor": "直播监控",
+    "review": "直播复盘",
+    "scripts": "话术库"
+  },
+  "influencer": {
+    "title": "达人管理",
+    "database": "达人库",
+    "outreach": "建联管理",
+    "commission": "佣金结算"
+  },
+  "selection": {
+    "title": "智能选品",
+    "hotProducts": "热销榜",
+    "trends": "趋势分析",
+    "channels": "选品渠道"
+  },
+  "supply": {
+    "title": "供应链",
+    "suppliers": "供应商",
+    "purchase": "采购管理",
+    "warehouse": "仓储管理",
+    "logistics": "物流管理"
+  }
+}
